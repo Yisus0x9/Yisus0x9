@@ -72,6 +72,6 @@ Currently, I'm also exploring the exciting world of artificial intelligence, fro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 </div>
-###
+
 
 ###
