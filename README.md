@@ -29,7 +29,7 @@
 
 ### 
 
-<p align="left">"I'm passionate about continuously learning new technologies and skills that contribute to my professional growth. I particularly enjoy working with the Java programming language, due to its versatility and the wide range of applications it offers.
+<p align="left">I'm passionate about continuously learning new technologies and skills that contribute to my professional growth. I particularly enjoy working with the Java programming language, due to its versatility and the wide range of applications it offers.
 On the other hand, I'm tremendously enthusiastic about the hardware world, particularly in the IoT and embedded systems domain. I find it fascinating how complex problems can be solved by integrating tangible elements that can be controlled and programmed to achieve specific objectives.
 Currently, I'm also exploring the exciting world of artificial intelligence, from machine learning to deep learning. It's incredible the potential and possibilities these technologies offer to transform the way we approach real-world challenges.<br><br>- 🔭 I’m working as hardware developer<br>- 📚 I'm currently learning English,Spring Framework and Fusion 360<br>- ⚡ In my free time I enjoy spending time with friends, playing video games, and watching videos about how innovative IoT and embedded systems projects are developed.</p>
 
