@@ -3,8 +3,10 @@
 
 
 <div align="center">
-<iframe src="https://giphy.com/embed/jBOOXxSJfG8kqMxT11" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11">via GIPHY</a></p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Yisus0x9.Yisus0x9&"  />
 </div>
+
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Yisus0x9.Yisus0x9&" />
 </div>
