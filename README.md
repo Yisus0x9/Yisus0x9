@@ -6,7 +6,6 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="200" width="200" style="border-radius: 50%;" />
 <br>
 <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZycWV6bGdhZnQzY2dpYTJrMXBueWJyb3lob2FmOGxkbHFmZXhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" style="position: relative; z-index: 2; margin-top: -175px;" />
 </td>
