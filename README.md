@@ -87,17 +87,13 @@
 
 <div align="center">
 
-### 🌈 "Building the future, one line of code at a time" 🚀
+### 🦇"La fortaleza del hombre radica en el dominio de su mente, su grandeza se conoce por la humildad de su espíritu, la honradez de su alma y su voluntad de vencer"🦇
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🔥 Always learning  •  💡 Always creating  •  🚀 Always growing  ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
----
+
 
 <div align="center">
 
