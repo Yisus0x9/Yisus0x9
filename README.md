@@ -2,7 +2,7 @@
 
 <div align="center">
 <!-- Marco animado con efectos de luz -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%" margin="50px"/>
 
 <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZycWV6bGdhZnQzY2dpYTJrMXBueWJyb3lob2FmOGxkbHFmZXhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" style="position: relative; z-index: 2; margin-top: -175px;" />
 
