@@ -10,7 +10,9 @@
 
 </div>
 
----
+
+<!-- Shark (tiburón) -->
+![Shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200)
 
 <div align="center">
 
@@ -28,7 +30,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
