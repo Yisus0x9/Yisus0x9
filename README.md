@@ -1,5 +1,7 @@
 # Hi 👋! I'm Yisus, I'm from Mexico and I'm a student of computer systems engineering at the National Polytechnic Institute
 
+![Wave](https://capsule-render.vercel.app/api?type=blur&height=300&color=calm_pink&text=Yisus&reversal=true&descAlign=100&descSize=50&textBg=false&fontColor=FFFFFF&fontSize=90&fontAlign=50&animation=blinking&strokeWidth=3&section=header&theme=neon)
+
 <div align="center">
 <!-- Marco animado con efectos de luz -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="60" width="100%" margin="50px"/>
@@ -11,8 +13,7 @@
 </div>
 
 
-<!-- Shark (tiburón) -->
-![Shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=200)
+ 
 
 <div align="center">
 
