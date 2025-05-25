@@ -12,11 +12,8 @@
 </td>
 </tr>
 </table>
-<img src="https://media0.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="30" />
 </div>
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Yisus0x9.Yisus0x9&" />
-</div>
+
 
 <div align="center">
 </div>
