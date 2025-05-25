@@ -3,18 +3,11 @@
 <div align="center">
 <!-- Marco animado con efectos de luz -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" />
-<table>
-<tr>
-<td align="center">
-<br>
+
 <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZycWV6bGdhZnQzY2dpYTJrMXBueWJyb3lob2FmOGxkbHFmZXhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" style="position: relative; z-index: 2; margin-top: -175px;" />
-</td>
-</tr>
-</table>
-</div>
 
 
-<div align="center">
+
 </div>
 
 ---
