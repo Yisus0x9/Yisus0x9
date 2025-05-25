@@ -1,9 +1,7 @@
 # Hi 👋! I'm Yisus, I'm from Mexico and I'm a student of computer systems engineering at the National Polytechnic Institute
 
 <div align="center">
-<!-- Línea de luz superior animada -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500">
-<br><br>
+
 <!-- Imagen con marco circular animado -->
 <a>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZycWV6bGdhZnQzY2dpYTJrMXBueWJyb3lob2FmOGxkbHFmZXhsZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" height="150" style="border-radius: 50%; animation: rotate 2s linear infinite;" />
