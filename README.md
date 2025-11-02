@@ -21,9 +21,6 @@
 <a href="https://www.linkedin.com/in/pe%C3%B1arrieta-villa-jes%C3%BAs-573066352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
-<a href="https://www.instagram.com/yisu0s9/profilecard/?igsh=MTZpYTY5cjc4YjU1Mw==" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-</a>
 <a href="https://discord.gg/Yisus0m9n7" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
 </a>
