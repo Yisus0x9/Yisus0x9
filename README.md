@@ -1,4 +1,4 @@
-# Hi ! I'm Yisus, I'm from Mexico and I'm a student of computer systems engineering at the National Polytechnic Institute
+# Hi! I'm Yisus, I'm from Mexico and I'm a student of computer systems engineering at the National Polytechnic Institute
 
 
 <div align="center">
