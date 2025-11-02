@@ -1,4 +1,4 @@
-# Hi 👋! I'm Yisus, I'm from Mexico and I'm a student of computer systems engineering at the National Polytechnic Institute
+# Hi ! I'm Yisus, I'm from Mexico and I'm a student of computer systems engineering at the National Polytechnic Institute
 
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-### 📡 Connect with me:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/pe%C3%B1arrieta-villa-jes%C3%BAs-573066352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -32,16 +32,16 @@
 ## 👨‍💻 About Me
 
 ```
-💡 Passionate developer exploring the intersection of software and hardware
-🔧 Hardware enthusiast specializing in IoT and embedded systems  
-🤖 AI explorer diving into machine learning and deep learning
-☕ Java lover appreciating its versatility and applications
-🌱 Continuous learner always growing professionally
+ Passionate developer exploring the intersection of software and hardware
+ Hardware enthusiast specializing in IoT and embedded systems  
+ AI explorer diving into machine learning and deep learning
+ Java lover appreciating its versatility and applications
+ Continuous learner always growing professionally
 ```
 
-- 🔭 I'm working as **hardware developer**
-- 📚 I'm currently learning **English, Spring Framework and Fusion 360**
-- ⚡ In my free time I enjoy spending time with friends, playing video games, and watching videos about how innovative IoT and embedded systems projects are developed
+-  I'm working as **hardware developer**
+-  I'm currently learning **English, Spring Framework and Fusion 360**
+-  In my free time I enjoy spending time with friends, playing video games, and watching videos about how innovative IoT and embedded systems projects are developed
 
 > *"I find it fascinating how complex problems can be solved by integrating tangible elements that can be controlled and programmed to achieve specific objectives."*
 
